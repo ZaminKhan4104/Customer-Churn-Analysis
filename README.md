@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis
+# 📊 Customer Churn Analysis Using Python
 
 This project explores a telecom customer dataset to identify key patterns and drivers of customer churn. Using Python libraries like **Pandas**, **Matplotlib**, and **Seaborn**, the notebook performs exploratory data analysis (EDA) and presents actionable insights.
 
